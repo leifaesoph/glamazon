@@ -34,7 +34,7 @@ INSERT INTO item (product, price, quantity)
 VALUES ("Sony Headphones",285.00,1);
 
 INSERT INTO item (product, price, quantity)
-VALUES ("Sweet ass e-bike ",6200.25,50);
+VALUES ("Sweet ass e-bike ",3400.25,50);
 
 INSERT INTO item (product, price, quantity)
 VALUES ("Casio Watch",49.99,500);
